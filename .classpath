@@ -11,7 +11,5 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/junit-4.8.2.jar"/>
-	<classpathentry kind="lib" path="lib/org.springframework.test-3.0.5.RELEASE.jar"/>
 	<classpathentry kind="output" path="webapp/WEB-INF/classes"/>
 </classpath>

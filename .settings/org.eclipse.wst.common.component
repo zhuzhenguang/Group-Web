@@ -3,7 +3,6 @@
     <wb-module deploy-name="Group-Web">
         <wb-resource deploy-path="/" source-path="/webapp"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resource"/>
         <property name="context-root" value="Group-Web"/>
